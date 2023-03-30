@@ -19,6 +19,6 @@ I am a complete passionate about Web & Movil technologies. Here you can watch so
 
 <br>
 
-<a href="https://github.com/jrojas-modyo">
-  <img align="center" style="margin:0.5rem; height:200px" src="https://github-readme-stats.vercel.app/api?username=jrojas-modyo&theme=dark&include_all_commits=true&hide_rank=false&show_icons=true&line_height=27&count_private=true&icon_color=20879e" alt="Josue's GitHub Stats" />
+<a href="https://github.com/jrojas-partners">
+  <img align="center" style="margin:0.5rem; height:200px" src="https://github-readme-stats.vercel.app/api?username=jrojas-partners&theme=dark&include_all_commits=true&hide_rank=false&show_icons=true&line_height=27&count_private=true&icon_color=20879e" alt="Josue's GitHub Stats" />
 </a>
